@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=zMtGfCMW0Kg
+
 from os import system
 import pytesseract
 import mouse
